@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "postgres",
-    "password": "ultimate012",
-    "database": "ln_link",
+    "password": "null",
+    "database": "database_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
